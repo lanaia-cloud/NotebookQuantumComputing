@@ -2,7 +2,7 @@
 
 Caderno no NotebookLM sobre computação quântica.
 
-Link do notebook: a inserir.
+Link do notebook:(https://notebook.google.com/notebook/4f1f8cc5-a9fc-436a-a689-ab34584e9188).
 
 ## Tema e objetivo
 
